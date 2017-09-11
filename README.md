@@ -6,7 +6,7 @@
 
 What's more important is that *it could make people use more linux(unix-like) than Windows.* 
 
-> That is a key to personal information freedom. Maybe I am biased but what I experienced.
+*That is a key to personal information freedom. Maybe I am biased but that is what I experienced.*
 
 ## Tools Classification 
 
@@ -24,8 +24,3 @@ I classified the tools as the four categories below, not fully covered , but tha
 3. Welcome to help to contibute
 
 
-
-
-
-
-To share with you my public notes
